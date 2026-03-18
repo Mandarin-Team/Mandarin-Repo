@@ -4,7 +4,7 @@
 ```gradle
 repositories {
   maven {
-    name = 'ferra13671-repo'
+    name = 'Mandarin-Team'
     url = 'https://https://mandarin-team.github.io//maven/'
   }
 }
@@ -13,7 +13,7 @@ repositories {
 ## Maven
 ```xml
 <repository>
-  <id>ferra13671-repo</id>
+  <id>Mandarin-Repo</id>
   <url>https://https://mandarin-team.github.io//maven</url>
 </repository>
 ```
