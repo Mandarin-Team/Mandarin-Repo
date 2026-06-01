@@ -27,11 +27,11 @@
         {
           "name": "discord-ipc-1.0.jar",
           "url": "discord-ipc-1.0.jar",
-          "size": 30594,
-          "sha512": "3c90bc4d39697fbdb7d36559dde2f6dae8aa2394c842ca9c576a87192f323543ded91e3ab02979a488f912a461ce5ad29f7da00f72b465c8a938841d7602c0e4",
-          "sha256": "7f187eda3d06aab5ad75364632af0f3a076802cde9ab1a5c9e52c779f491ca8d",
-          "sha1": "39bd4487151de21f3627b1386af8903fc6e0d266",
-          "md5": "779bd229a43aee9e6e336588b9b9af00"
+          "size": 29901,
+          "sha512": "8d5b89e38046857dfecc698ff4fe50ae4fe931fb98f64770e9d118e947093d546551b4d84daf6e55d6f65161c08b96d7f5ff3e8406638b5644d7418f9b6a5c09",
+          "sha256": "1e14d27f0d89f857364352203372e68e91611725bce9ea8f6ffd1275c55a8215",
+          "sha1": "d2b8dcd955b1bba48d0deda8973c4b971c560045",
+          "md5": "c2609804a556e04f89699f780754874e"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "discord-ipc-1.0.jar",
           "url": "discord-ipc-1.0.jar",
-          "size": 30594,
-          "sha512": "3c90bc4d39697fbdb7d36559dde2f6dae8aa2394c842ca9c576a87192f323543ded91e3ab02979a488f912a461ce5ad29f7da00f72b465c8a938841d7602c0e4",
-          "sha256": "7f187eda3d06aab5ad75364632af0f3a076802cde9ab1a5c9e52c779f491ca8d",
-          "sha1": "39bd4487151de21f3627b1386af8903fc6e0d266",
-          "md5": "779bd229a43aee9e6e336588b9b9af00"
+          "size": 29901,
+          "sha512": "8d5b89e38046857dfecc698ff4fe50ae4fe931fb98f64770e9d118e947093d546551b4d84daf6e55d6f65161c08b96d7f5ff3e8406638b5644d7418f9b6a5c09",
+          "sha256": "1e14d27f0d89f857364352203372e68e91611725bce9ea8f6ffd1275c55a8215",
+          "sha1": "d2b8dcd955b1bba48d0deda8973c4b971c560045",
+          "md5": "c2609804a556e04f89699f780754874e"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "discord-ipc-1.0-sources.jar",
           "url": "discord-ipc-1.0-sources.jar",
           "size": 15013,
-          "sha512": "876362efc94301f9fe06bd182496a9de85f62441ef011b68f4b84020825e98216fa6fe70be1ea8a4e9b209b2bba9f9ca7aaa7476b38c2a824616030b9bde94bb",
-          "sha256": "b330fa33d94b931ba37377deef1f782df4387740f64f348afefd439a1a6d0115",
-          "sha1": "ea901cc1beb0a728d6f2ada1857cedf5ef44dc2a",
-          "md5": "8c8aaa17e26e654ce324d0fedd7d6f6f"
+          "sha512": "3705660f88887cbb71fd4cf5a8cd5b49095087436485445fd83d7212b91fb016172b8822c5b3e7edc352cbbf3e9dba7e2c07664ea034d38f94e3b133ce69b939",
+          "sha256": "3e17b87e96c8bad021b02ab03a604bc99ceec2c46aa4115e96dda8bac76c03ba",
+          "sha1": "45f437021f456ada5d758b2f4eddacc9ca5e87da",
+          "md5": "96078bfd1b6017665b7226996d907e20"
         }
       ]
     },
@@ -88,11 +88,11 @@
         {
           "name": "discord-ipc-1.0-javadoc.jar",
           "url": "discord-ipc-1.0-javadoc.jar",
-          "size": 203926,
-          "sha512": "1fab554c2395962f7991602e66e5d86edaafa2471517fc216424f44f6f5ac006ff9afa063cd7c6577e2e8d9391551e9d7a49fdf1d6014acb7ab5554c3e9464f5",
-          "sha256": "6058afbc626e0eed6c237349a31c0249c7e7d843bd2e73a66edea36c586cd0ab",
-          "sha1": "d1070ddcdad048b8462bcc2d543081754c3bea31",
-          "md5": "b49c289ac0c82cf7ed7fe0144ed629a6"
+          "size": 177366,
+          "sha512": "05ff395e5e814cce163d19bc0f50713094dc09ac0ba7d7f560c114a4949ae11c65185e5e0fd8c91430048850f9f97a9ffcc781147bc229eb6576d3c2d5cef9b4",
+          "sha256": "e72044a279cc31f499464c814206cfe4ee43d004c22d68a01ebcfea45c51642a",
+          "sha1": "4c85fdeb9d596551f8ac36bd3c1d92b54a5b41be",
+          "md5": "beb4a71404582c6e88c0909283f1ccef"
         }
       ]
     }
