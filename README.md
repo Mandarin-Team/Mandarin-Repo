@@ -6,6 +6,7 @@ repositories {
   maven {
     name = 'Mandarin-Team'
     url = 'https://mandarin-team.github.io/maven/'
+
   }
 }
 ```
@@ -13,7 +14,7 @@ repositories {
 ## Maven
 ```xml
 <repository>
-  <id>Mandarin-Repo</id>
+  <id>Mandarin-Team-Maven</id>
   <url>https://mandarin-team.github.io/maven</url>
 </repository>
 ```
